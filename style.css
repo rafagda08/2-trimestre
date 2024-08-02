@@ -1,4 +1,6 @@
+
 @import url("styles/header.css");
+
 :root {
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
@@ -11,3 +13,5 @@ body {
 h1 {
     background-color: white;
 }
+
+
