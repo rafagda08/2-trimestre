@@ -22,17 +22,4 @@
     margin: 0.5em 0;
   }
 
-  .card__descrição {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 0.5em;
-  }
-
-  .botões {
-    display: flex;
-  }
-
-  .descrição__titulo {
-    color: var(--laranja);
-    font-weight: 700;
-  }
+  
