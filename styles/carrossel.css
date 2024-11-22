@@ -21,15 +21,34 @@
     position: initial;
     margin: 0.5em 0;
   }
+  
+  .descrição__titulo-livro {
+    color: var(--azul-degrade);
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0.5em 0;
+   
+    .descrição__texto {
+      font-size: 14px;
+    }
+  }
+  
+  .descrição__titulo {
+    color: var(--laranja);
+    font-weight: 700;
+  }
+  
   .card__descrição {
     display: flex;
     justify-content: space-between;
     margin-bottom: 0.5em;
   }
+ 
   .card__botões {
     display: flex;
     justify-content: space-between;
   }
+ 
   .botões {
     display: flex;
   }
